@@ -1,0 +1,27 @@
+{
+  "name": "multibox",
+  "version": "0.2.0",
+  "description": "Multibox game",
+  "main": "game.js",
+  "scripts": {
+    "start": "node game.js"
+  },
+  "engines": {
+    "node": "4.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/heroku/node-js-sample"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
+  "author": "Nishita Dutta",
+  "contributors": [
+    "Madhuri Jain",
+    "Jagruti Mahajan"
+  ],
+  "license": "MIT"
+}
