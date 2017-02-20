@@ -10,7 +10,7 @@
     "node": "4.0.0"
   },
   "dependencies": {
-    "socket.io": "0.9"
+    "socket.io": "~0.9"
   },
   "repository": {
     "type": "git",
