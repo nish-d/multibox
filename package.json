@@ -9,6 +9,9 @@
   "engines": {
     "node": "4.0.0"
   },
+  "dependencies": {
+    "socket.io": "0.9"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/heroku/node-js-sample"
